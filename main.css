@@ -36,18 +36,18 @@ p {
     }
     */
     #small {
-        float: none;
+        float: left;
         margin: 0 3% 1.5em 0;   /* 21px / 633px */
-        width: 33%;             /* 197px / 633px */
+        width: 60%;             /* 197px / 633px */
         display: block;
     }
     #medium {
-        float: none;
+        float: right;
         margin: 0 3% 1.5em 0;   /* 21px / 633px */
-        width: 66%;
+        width: 33%;
     }
     #large {
-        float: none;
+        float: left;
         width: auto;
     }
 
